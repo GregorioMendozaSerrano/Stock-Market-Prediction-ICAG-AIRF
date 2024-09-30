@@ -4,7 +4,7 @@
 
 ### Author: Gregorio Mendoza Serrano
 
-In this feedback exercise, an analysis of the stock prices (obtained from investing.com) of two companies will be performed using historic data corresponging to the following time period: 
+In this feedback exercise, an analysis of the stock prices (obtained from investing.com) of two companies will be performed using historic data corresponding to the following time period: 
 
 *From: January 1, 2019 - To: October 1, 2023*
 
